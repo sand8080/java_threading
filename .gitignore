@@ -1,0 +1,11 @@
+.env
+.idea
+.gradle
+.gitconfig
+*.log*
+/out
+build
+repos
+*.iml
+*.pyc
+*.pid
